@@ -1,0 +1,5 @@
+{
+  "name": "Course Scheduler",
+  "description": "A professional course scheduling system for teachers to manage and share lesson plans with a drag-and-drop calendar.",
+  "requestFramePermissions": []
+}
